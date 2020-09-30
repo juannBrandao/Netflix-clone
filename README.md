@@ -70,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ###interface esktop
 ![interface desktop](https://github.com/juannBrandao/Netflix-clone/blob/master/Captura%20de%20Tela%20(61).png)
 ###interface mobile
-![interface desktop](https://github.com/juannBrandao/Netflix-clone/blob/master/Captura%20de%20Tela%20(61).png)
+![interface desktop](https://github.com/juannBrandao/Netflix-clone/blob/master/clote_ntf_small.PNG)
